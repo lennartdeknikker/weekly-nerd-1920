@@ -36,6 +36,8 @@ As last example he showed us how he built [a 3D carousel](https://codepen.io/sho
 
 As a project for Ben & Jerry's he built [this carousel](https://www.sinds1971.nl/bj2/index.html) to show different ice cream flavours and have users browse through those in a way that makes it fun to do so. This is optimized by adding some micro interactions, like the way the carousel bounces back a little every time you give it a swing.
 
+![ben & jerry carousel](https://github.com/lennartdeknikker/weekly-nerd-1920/blob/master/assets/images/sanne%20t%20hoofd/ben%20%26%20jerry's.png)
+
 
 He showed us how he started on this project, the sketches he made and what math he used to calculate the positions and size of all the carousel items. What impressed me most was that it was possible to add a huge amount of items to the carousel without slowing it down. It did get slower when we tried to find out how far we could stretch the amount, but it seemed to be a lot lighter than when you would try the same using just javaScript.
 
