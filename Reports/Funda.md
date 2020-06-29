@@ -1,4 +1,3 @@
-FUNDA - Scrum and POC - february 26th
 # Funda Scrum Workshop
 #### A workshop to learn to scrum and to work on different features as one team. - February 26th
 
