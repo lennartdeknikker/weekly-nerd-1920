@@ -8,6 +8,8 @@ Based in Amsterdam, the Funda office building hosted this workshop for us, so we
 ## About Funda
 Funda is an online platform where people can offer real estate. In fifteen years it grew to be the biggest website connecting consumers and estate agents.
 
+![funda website](https://github.com/lennartdeknikker/weekly-nerd-1920/blob/master/assets/images/funda/funda%20website.png)
+
 ## What we did
 For this workshop we were divided in multiple teams. Each team is provided with a coach and each team had to bring one person forward to take the role of scrum master. Starting off, all scrum masters got together and received instructions on leading their teams. Meanwhile the teams all received information on the features each team got assigned.
 
