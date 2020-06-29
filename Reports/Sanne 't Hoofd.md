@@ -1,5 +1,5 @@
 # UX design and CSS
-#### A Lecture by Sanne 't Hoofd - february 19th
+#### A Lecture by Sanne 't Hoofd - February 19th
 
 ## About Sanne 't Hoofd
 Sanne 't Hoofd is lecturer at the Amsterdam University of Applied Sciences. During this lecture, he showed us some examples of beautiful CSS creations by some of his students as well as some of his own work. The goal of this lecture was to inspire us to be more creative in our own work and make us aware of what can be achieved using just some CSS.
