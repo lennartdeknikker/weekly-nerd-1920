@@ -76,7 +76,7 @@ Web vs graphic design
 [Jen Simmons]:https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jen_Simmons_AEACHI_%28cropped%29.jpeg/220px-Jen_Simmons_AEACHI_%28cropped%29.jpeg
 [Chen Hui Jing]:https://chenhuijing.com/assets/images/headshot.jpg
 [Mark Boulton]:https://rosenfeldmedia.com/designopssummit2018/wp-content/uploads/sites/10/2018/07/boulton-262x272.png
-[Piet Schreuders]:https://images1.persgroep.net/rcs/j6D4ihPE1VkkpuQKiNkX5ndgocU/diocontent/135420593/_crop/0/9/1580/893/_fitwidth/1240?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.9
+[Piet Schreuders]:https://www.thomasrap.nl/wp-content/uploads/imagecache/cac8e2ac95ab1a7cba8b80d7b7ff93e7_183x255_top.pngj6D4ihPE1VkkpuQKiNkX5ndgocU/diocontent/135420593/_crop/0/9/1580/893/_fitwidth/1240?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.9
 [Wim Crouwel]:https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wim_Crouwel_1976.jpg/220px-Wim_Crouwel_1976.jpg
 [Josef Müller-Brockmann]:https://images.gr-assets.com/authors/1352473500p5/201322.jpg
 [Jan Tschichold]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Jan_Tschichold_%281963%29_by_Erling_Mandelmann.jpg/220px-Jan_Tschichold_%281963%29_by_Erling_Mandelmann.jpg
