@@ -75,7 +75,7 @@ Web vs graphic design
 <!-- picture links -->
 [Jen Simmons]:https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jen_Simmons_AEACHI_%28cropped%29.jpeg/220px-Jen_Simmons_AEACHI_%28cropped%29.jpeg
 [Chen Hui Jing]:https://chenhuijing.com/assets/images/headshot.jpg
-[Mark Boulton]:https://markboulton.co.uk/images/mark-boulton-headshot.png
+[Mark Boulton]:https://rosenfeldmedia.com/designopssummit2018/wp-content/uploads/sites/10/2018/07/boulton-262x272.png
 [Piet Schreuders]:https://images1.persgroep.net/rcs/j6D4ihPE1VkkpuQKiNkX5ndgocU/diocontent/135420593/_crop/0/9/1580/893/_fitwidth/1240?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.9
 [Wim Crouwel]:https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wim_Crouwel_1976.jpg/220px-Wim_Crouwel_1976.jpg
 [Josef Müller-Brockmann]:https://images.gr-assets.com/authors/1352473500p5/201322.jpg
