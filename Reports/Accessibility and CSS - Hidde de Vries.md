@@ -1,4 +1,5 @@
-# Hidde de Vries - Accessibility and CSS expert at W3C - february 13th
+# Modernism in Graphic Design
+#### A lecture by Hidde de Vries - Accessibility and CSS expert at W3C - february 13th
 
 ## About Hidde De Vries
 Hidde de Vries is an accessibility specialist and web developer, working for W3C. He's concerned with web standards and the development of new web technologies. One of the main projects he has been working on was css grids. Today his lecture was about the history of graphic design and our role as developers in this line of industry.
