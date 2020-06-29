@@ -42,8 +42,8 @@ As a project for Ben & Jerry's he built [this carousel](https://www.sinds1971.nl
 He showed us how he started on this project, the sketches he made and what math he used to calculate the positions and size of all the carousel items. What impressed me most was that it was possible to add a huge amount of items to the carousel without slowing it down. It did get slower when we tried to find out how far we could stretch the amount, but it seemed to be a lot lighter than when you would try the same using just javaScript.
 
 ## Conclusions
-### Details are important and it's our responsibility to provide those.
-### It's important to understand the users needs.
-### Aim for User Delight
-### It's important to experiment.
-#### It's no problem to fail sometimes as long as you learn from those experiments.
+- Details are important and it's our responsibility to provide those.
+- It's important to understand the users needs.
+- Aim for User Delight
+- It's important to experiment.
+  - It's no problem to fail sometimes as long as you learn from those experiments.
