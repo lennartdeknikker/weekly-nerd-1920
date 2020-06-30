@@ -1,4 +1,5 @@
 # The possibilities of serverless functions
+**Lennart de Knikker | June 30th 2020**
 
 A few weeks ago, I attended the online JAM stack conference. One of their speakers was Jan van Hellemond. He spoke about the advantages of serverless functions and about how he managed to set up online ticket sales without servers, frameworks or cookies. At first I thought this would be a bit ambitious, since the sale of tickets is something that has to happen in a secure way, minimizing risks like that of losing peoples data or selling too many tickets. It also made me curious, so I kept watching. Eventually, he talked about the use of serverless functions, which, in combination with some other technologies, made it possible to even deploy changes to production during peak load.[(1)][1] I had heard about serverless functions before and recently I had seen that Netlify, the host of this conference, rolled out their own serverless services.[(2)][2] I got interested and tried to find out more to see if I could use this for my own projects.
 
