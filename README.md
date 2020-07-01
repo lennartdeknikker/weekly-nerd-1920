@@ -4,12 +4,12 @@ In the wiki of this repository, you can find my reports on workshops and lecture
 I wrote these reports and articles as those were assignments for the course called [weekly nerd](https://github.com/cmda-minor-web/weekly-nerd-1920) which is part of the [minor Web Development](https://everythingweb.org/) at the [Amsterdam University of Applied Sciences](https://www.amsterdamuas.com/).
 
 ## Contents
-## Reports
+### Reports
 - workshop - [Funda | scrum][funda]
 - lecture - [Sanne 't Hoofd | UX Design & CSS][UX]
 - lecture - [Hidde de Vries | Modernism in Graphic Design][Modernism]
 
-## Articles
+### Articles
 - [Trying out Deno][deno]
 - [The possibilities of serverless functions][serverless]
 - [The new features of EcmaScript 2020][es2020]
