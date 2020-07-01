@@ -1,4 +1,8 @@
 # Trying out Deno.js
+**Lennart de Knikker | July 1st 2020**
+
+![deno logo](https://github.com/lennartdeknikker/weekly-nerd-1920/blob/master/assets/images/deno/deno.png)
+
 Since I'm subscribed to the DEV Digest newsletter I received one a month ago which contained an interesting link to [this article](https://dev.to/aralroca/learn-deno-chat-app-37f0). I had also heard about Deno.js on [the Syntax podcast](https://syntax.fm/) by Wes Bos and Scott Tolinski. They were quite excited about this new runtime for JavaScript and TypeScript. The article in the newsletter provided a tutorial to get acquainted with the most important Deno features:
 
 - permissions
